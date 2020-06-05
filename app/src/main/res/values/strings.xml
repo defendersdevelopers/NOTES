@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CLASS 10 NOTES</string>
+
+    <string name="app_id">ca-app-pub-6091264825361781~5761409323</string>
+
+    <string name="test_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="test_rewarded_id">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="test_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <string name="home_banner_1">ca-app-pub-6091264825361781/4193176784</string>
+    <string name="banner2">ca-app-pub-6091264825361781/6202949379</string>
+    <string name="banner3">ca-app-pub-6091264825361781/4698296013</string>
+    <string name="banner4">ca-app-pub-6091264825361781/2072132677</string>
+    <string name="banner5">ca-app-pub-6091264825361781/4107554485</string>
+    <string name="banner6">ca-app-pub-6091264825361781/2794472813</string>
+    <string name="banner7">ca-app-pub-6091264825361781/8625383994</string>
+    <string name="interstitial1">ca-app-pub-6091264825361781/5229064468</string>
+    <string name="interstitial2">ca-app-pub-6091264825361781/3915982798</string>
+    <string name="rewarded1">ca-app-pub-6091264825361781/6350574448</string>
+
+
+</resources>
